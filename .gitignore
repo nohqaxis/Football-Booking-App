@@ -7,6 +7,7 @@ yarn.lock
 backend/bookings.db
 backend/bookings.db-journal
 backend/database.json
+api/database.json
 
 # Build outputs
 frontend/dist/
@@ -41,3 +42,5 @@ yarn-error.log*
 coverage/
 .nyc_output/
 
+# Vercel
+.vercel
